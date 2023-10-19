@@ -11,10 +11,10 @@
             bool responseList
         )
         {
-            string result = 
+            string result =
 @"using FluentValidation;
 using MediatR;
-using System.Collections;
+using @project.Helpers;
 
 namespace @project.Features.@featureFeature.@types
 {
