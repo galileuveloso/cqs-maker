@@ -11,8 +11,8 @@
             bool responseList
         )
         {
-            string result = @"
-using FluentValidation;
+            string result = 
+@"using FluentValidation;
 using MediatR;
 using System.Collections;
 
@@ -53,8 +53,7 @@ namespace @project.Features.@featureFeature.@types
 
         }
     }
-}
-            ";
+}";
 
             if (responseList)
                 result =
