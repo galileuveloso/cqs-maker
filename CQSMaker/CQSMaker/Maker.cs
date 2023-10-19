@@ -65,7 +65,8 @@ namespace @project.Features.@featureFeature.@types
                 .Replace("@name", name)
                 .Replace("@project", project)
                 .Replace("@type", type)
-                .Replace("@feature", feature);
+                .Replace("@feature", feature)
+                .Replace(".Query", ".Queries");
         }
     }
 }
