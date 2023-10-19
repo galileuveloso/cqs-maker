@@ -1,0 +1,11 @@
+C:\projetos\cqs-maker\CQSMaker\CQSMaker\obj\Debug\CQSMaker.csproj.AssemblyReference.cache
+C:\projetos\cqs-maker\CQSMaker\CQSMaker\obj\Debug\CQSMaker.csproj.SuggestedBindingRedirects.cache
+C:\projetos\cqs-maker\CQSMaker\CQSMaker\obj\Debug\CQSMaker.Forms.CQSMaker.resources
+C:\projetos\cqs-maker\CQSMaker\CQSMaker\obj\Debug\CQSMaker.Properties.Resources.resources
+C:\projetos\cqs-maker\CQSMaker\CQSMaker\obj\Debug\CQSMaker.csproj.GenerateResource.cache
+C:\projetos\cqs-maker\CQSMaker\CQSMaker\obj\Debug\CQSMaker.csproj.CoreCompileInputs.cache
+C:\projetos\cqs-maker\CQSMaker\CQSMaker\bin\Debug\CQSMaker.exe.config
+C:\projetos\cqs-maker\CQSMaker\CQSMaker\bin\Debug\CQSMaker.exe
+C:\projetos\cqs-maker\CQSMaker\CQSMaker\bin\Debug\CQSMaker.pdb
+C:\projetos\cqs-maker\CQSMaker\CQSMaker\obj\Debug\CQSMaker.exe
+C:\projetos\cqs-maker\CQSMaker\CQSMaker\obj\Debug\CQSMaker.pdb
