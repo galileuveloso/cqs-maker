@@ -95,7 +95,7 @@ namespace @project.Api.Features.@featureFeature." + (command ? "Commands" : "Que
             ArgumentNullException.ThrowIfNull
             (
                 request,
-                MessageHelper.NullFor<InserirCarroCommand>()
+                MessageHelper.NullFor<@name@type>()
             );
 
             return new @nameResponse();
