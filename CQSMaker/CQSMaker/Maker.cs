@@ -51,12 +51,14 @@ namespace CQSMaker
             =>
 @"using FluentValidation;
 using MediatR;
-using @project.Helpers;";
+using @project.Api.Helpers;
+using @project.Domain;
+using @project.Repositories;";
 
         private static string GetNamespace(bool command)
             => @"
 
-namespace @project.Features.@featureFeature." + (command ? "Commands" : "Queries") + @"
+namespace @project.Api.Features.@featureFeature." + (command ? "Commands" : "Queries") + @"
 {";
 
         private static string GetRequest(bool command)
@@ -82,6 +84,8 @@ namespace @project.Features.@featureFeature." + (command ? "Commands" : "Queries
 
     public class @nameHandler : IRequestHandler<@name@type, @nameResponse>
     {
+        private readonly IRepository<@feature> _repository;
+
         public async Task<@nameResponse> Handle
         (
             @name@type request,

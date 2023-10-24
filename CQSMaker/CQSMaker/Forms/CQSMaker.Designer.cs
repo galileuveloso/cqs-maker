@@ -112,15 +112,15 @@
             this.ProjetoSelect.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.ProjetoSelect.FormattingEnabled = true;
             this.ProjetoSelect.Items.AddRange(new object[] {
-            "Mps.Documento.Api",
-            "Mps.Fluxo.Api",
-            "Mps.FluxoEvento.Api",
-            "Mps.Questionario.Api",
-            "Mps.ModeloTexto.Api",
-            "Mps.Notificacao.Api",
-            "Mps.Notificacao.App",
-            "Mps.Localizacao.Api",
-            "Mps.Usuario.Api"});
+            "Mps.Documento",
+            "Mps.Fluxo",
+            "Mps.FluxoEvento",
+            "Mps.Questionario",
+            "Mps.ModeloTexto",
+            "Mps.Notificacao",
+            "Mps.Notificacao",
+            "Mps.Localizacao",
+            "Mps.Usuario"});
             this.ProjetoSelect.Location = new System.Drawing.Point(424, 28);
             this.ProjetoSelect.Name = "ProjetoSelect";
             this.ProjetoSelect.Size = new System.Drawing.Size(197, 24);
